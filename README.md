@@ -15,7 +15,7 @@ Welcome to my GitHub profile! Here's a little about me:
 ![Vethishan99's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vethishan99&show_icons=true&theme=radical)
 
 🛠️ Tech Stack
-- Languages: JavaScript, Java, C.
+- Languages: JavaScript, Java, C, HTML, CSS.
 - Tools & Frameworks: Git, React.
 - Platforms: 
 
